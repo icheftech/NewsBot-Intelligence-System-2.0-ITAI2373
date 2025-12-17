@@ -1,1 +1,13 @@
 requirements.txt
+
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+transformers
+torch
+matplotlib
+seaborn
+fastapi
+uvicorn
